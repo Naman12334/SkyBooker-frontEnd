@@ -1,0 +1,47 @@
+{
+  "name": "frontend_capgi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^9.0.0",
+    "@mui/x-date-pickers": "^9.0.2",
+    "@reduxjs/toolkit": "^2.11.2",
+    "axios": "^1.15.2",
+    "dayjs": "^1.11.20",
+    "framer-motion": "^12.38.0",
+    "html-to-image": "^1.11.13",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-hot-toast": "^2.6.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.14.2",
+    "react-time-picker": "^8.0.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.4",
+    "@tailwindcss/vite": "^4.2.4",
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "autoprefixer": "^10.5.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.11.0",
+    "postcss": "^8.5.10",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss": "^4.2.4",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.10"
+  }
+}
